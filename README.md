@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wfrice
+- 👋 Hi, I’m William Rice
 - 👀 I teach students programming
 - 📫 Email me at ricewilliam125@gmail.com
 
