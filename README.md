@@ -1,6 +1,21 @@
-- 👋 Hi, I’m William Rice
-- 👀 I teach students programming
-- 📫 Email me at ricewilliam125@gmail.com
+## 👋 Hi, I’m William Rice
+
+### Education
+- Computer Science AP [2020-2021]
+- Data Structures & Algorithms [2022]
+
+
+### Competitions
+- CMUPC [2020]
+- TSA Coding (Regional & States) [2022]
+- TSA Video Game Design (Regional & States) [2022]
+
+
+### Work / Volunteer History
+- Steel City Codes Elementary Teacher [2021-2022]
+- Steel City Codes Middle School Chapter Head [2023-]
+
+---
 
 <!---
 wfrice/wfrice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
