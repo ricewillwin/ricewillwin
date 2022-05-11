@@ -1,4 +1,5 @@
 ## 👋 Hi, I’m William Rice
+Currently in High School looking for research related jobs / internships.
 
 ### Education
 - Computer Science AP [2020-2021]
