@@ -4,6 +4,9 @@
     <a href="https://www.linkedin.com/in/willlrice/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="">
+      <img src="https://img.shields.io/badge/discord-grey?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
     <a href="https://twitter.com/willl_rice">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
@@ -46,10 +49,14 @@ Currently in High School looking for research related internships / jobs in the 
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
-
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40" />
+</div>
 ---
-<!---
-wfrice/wfrice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![William's github stats](https://github-readme-stats.vercel.app/api?username=wfrice&show_icons=true&theme=radical)](https://github.com/wfrice)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wfrice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
