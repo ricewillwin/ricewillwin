@@ -45,6 +45,9 @@ Currently in High School looking for research related internships / jobs in the 
 - Steel City Codes Middle School Chapter Head [2023-]
 
 ---
+### :hammer_and_wrench: Languages and Tools :
+
+---
 <!---
 wfrice/wfrice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
