@@ -18,32 +18,31 @@
   </h1>
 </div>
 
-Currently in High School looking for research related internships / jobs in the Pittsburgh Area.
-
-## Education
-### Computer Science
+---
+### :book: Education :
+#### Computer Science
 - Computer Science AP [2020-2021]
   - AP Score: 5
 - Data Structures & Algorithms [2022]
 
-### Mathematics
+#### Mathematics
 - Calculus AB AP [2021-2022]
 - Calculus BC AP [2022/2023]
 
-### Science / Engineering
+#### Science / Engineering
 - Physics Acc [2021]
 - Engineering Acc [2021]
 - Physics Mechanics AP [2022/2023]
 
-
-## Competitions
+---
+### :trophy: Competitions
 - CMUPC [2020]
 - TSA Coding (Regional & States) [2022]
 - TSA Video Game Design (Regional & States) [2022]
   - [Video Game Repository](https://github.com/FCASD-TSA/2022-Video-Game)
 
-
-## Work / Volunteer History
+---
+### :man_teacher: Work / Volunteer History
 - Steel City Codes Elementary Teacher [2021-2022]
 - Steel City Codes Middle School Chapter Head [2023-]
 
@@ -57,6 +56,10 @@ Currently in High School looking for research related internships / jobs in the 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40" />
 </div>
----
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wfrice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+---
+### :fire: Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wfrice&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wfrice&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
