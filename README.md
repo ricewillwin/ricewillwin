@@ -18,7 +18,6 @@
   </h1>
 </div>
 
----
 ### :book: Education :
 #### Computer Science
 - Computer Science AP [2020-2021]
@@ -34,17 +33,21 @@
 - Engineering Acc [2021]
 - Physics Mechanics AP [2022/2023]
 
----
 ### :trophy: Competitions
 - CMUPC [2020]
 - TSA Coding (Regional & States) [2022]
 - TSA Video Game Design (Regional & States) [2022]
   - [Video Game Repository](https://github.com/FCASD-TSA/2022-Video-Game)
 
----
 ### :man_teacher: Work / Volunteer History
 - Steel City Codes Elementary Teacher [2021-2022]
 - Steel City Codes Middle School Chapter Head [2023-]
+
+### :newspaper: Blog :
+
+<!-- BLOG-POST-LIST:START -->
+- [GitHub Readme](https://dev.to/wfrice/github-readme-3eam)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -57,16 +60,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40" />
 </div>
 
----
 ### :fire: Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wfrice&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wfrice&hide_border=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-### :newspaper: Blog :
-
-<!-- BLOG-POST-LIST:START -->
-- [GitHub Readme](https://dev.to/wfrice/github-readme-3eam)
-<!-- BLOG-POST-LIST:END -->
