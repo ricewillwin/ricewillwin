@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/willlrice/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="">
+    <a href="https://discord.gg/6uQ8GPNqc5">
       <img src="https://img.shields.io/badge/discord-grey?style=for-the-badge&logo=twitter&logoColor=white" alt="Discord Badge"/>
     </a>
     <a href="https://twitter.com/willl_rice">
