@@ -41,7 +41,7 @@
 
 ### :man_teacher: Work / Volunteer History
 - Steel City Codes Elementary Teacher [2021-2022]
-- Steel City Codes Middle School Chapter Head [2023-]
+- Steel City Codes Middle School Chapter Head [2022-]
 
 ### :newspaper: Blog :
 
