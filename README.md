@@ -42,12 +42,6 @@
 - Steel City Codes Elementary Teacher [2021-2022]
 - Steel City Codes Middle School Chapter Head [2022-]
 
-### :newspaper: Blog :
-
-<!-- BLOG-POST-LIST:START -->
-- [GitHub Readme](https://dev.to/wfrice/github-readme-3eam)
-<!-- BLOG-POST-LIST:END -->
-
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
