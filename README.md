@@ -25,22 +25,25 @@
 
 #### Mathematics
 - Calculus AB AP [2021-2022]
-- Calculus BC AP [2022/2023]
+- Linear Algebra [2022]
+- Calculus BC AP [2023]
 
 #### Science / Engineering
+- Intro to Engineering [2020]
 - Physics Acc [2021]
 - Engineering Acc [2021]
-- Physics Mechanics AP [2022/2023]
+- Physics Mechanics AP [2022]
 
 ### :trophy: Competitions
 - CMUPC [2020]
 - TSA Coding (Regional & States) [2022]
-- TSA Video Game Design (Regional & States) [2022]
+- TSA Video Game Design (Regionals & States) [2022]
   - [Video Game Repository](https://github.com/FCASD-TSA/2022-Video-Game)
+- TSA Video Game Design (Regionals & States) [2023]
 
 ### :man_teacher: Work / Volunteer History
 - Steel City Codes Elementary Teacher [2021-2022]
-- Steel City Codes Middle School Chapter Head [2022-]
+- Steel City Codes Middle School Chapter Head [2022-2023]
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
