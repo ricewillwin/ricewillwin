@@ -44,6 +44,7 @@
 ### :man_teacher: Work / Volunteer History
 - Steel City Codes Elementary Teacher [2021-2022]
 - Steel City Codes Middle School Chapter Head [2022-2023]
+- Highschool Tech Desk [2023]
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
