@@ -39,6 +39,7 @@
 - TSA Coding (Regional & States) [2022]
 - TSA Video Game Design (Regionals & States) [2022]
   - [Video Game Repository](https://github.com/FCASD-TSA/2022-Video-Game)
+- C-SPAN Student Cam [2023]
 - TSA Video Game Design (Regionals & States) [2023]
 
 ### :man_teacher: Work / Volunteer History
