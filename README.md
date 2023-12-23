@@ -21,10 +21,10 @@
 - Northeastern University
   - Major: Electrical Engineering
   - Minors:
-    - * Computer Science
-    - Film
-    - * Robotics
-    - Mathematics
+    - Computer Science
+    - Robotics
+    - _Mathematics_
+    - _Film_
 - Fox Chapel High School
 
 ### :trophy: Competitions
