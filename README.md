@@ -19,6 +19,9 @@
 
 ### :book: Education :
 #### Computer Science
+##### Northeastern University
+- Fundamentals of Computer Science 1 [2023]
+##### Fox Chapel
 - Computer Science AP [2020-2021]
   - AP Score: 5
 - Data Structures & Algorithms [2022]
@@ -29,6 +32,10 @@
 - Calculus BC AP [2023]
 
 #### Science / Engineering
+##### Northeastern University
+- Physics for Engineering 1 [2023]
+- Cornerstone of Engineering 1 [2023]
+##### Fox Chapel
 - Intro to Engineering [2020]
 - Physics Acc [2021]
 - Engineering Acc [2021]
